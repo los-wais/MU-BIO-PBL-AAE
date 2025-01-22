@@ -2,15 +2,16 @@
 
 ## Proiektuaren Deskribapena
 
-Proiektu hau 24/25 Ikasturtea Ingeniaritza biomedikako grauda POPBL S1n parte da, kartoizko errotagailu bat eraiki eta aztertzeko. Osagai honek software alderdian oinarritzen da: kamera bidezko jarraitzaile batetik datorren ibilbide-datuak prozesatzen dituen C programa bat garatuko duzu, errotazio-diskoak lortutako abiadura angeluar maximoa kalkulatu eta zehazteko.
+Proiektu hau 24/25 Ikasturtea Ingeniaritza biomedikako grauda POPBL S1n parte da, kartoizko errotagailu bat eraiki eta aztertzeko. Osagai honek software alderdian oinarritzen da: kamera bidezko jarraitzaile batetik datorren ibilbide-datuak prozesatzen dituen C programa bat garatuko dugu, errotazio-diskoak lortutako abiadura angeluar maximoa kalkulatu eta zehazteko.
 
 ## Taldekideak
 
-*   [1. Taldekidearen Izena] - [GitHub Erabiltzailea]
-*   [2. Taldekidearen Izena] - [GitHub Erabiltzailea]
-*   [3. Taldekidearen Izena] - [GitHub Erabiltzailea]
-*   ... (Gehitu taldekide gehiago behar izanez gero)
-
+*   1. Mikel J. Otaegui Bengochea - Mikel-Otaegui
+*   2. Elene Irazola Gandarias - Elene Irazola
+*   3. Nahia Blazquez Zelaia - NahiaBlazquez 
+*   4. Haizea Zabala Muruamendiaraz - Haizeazm
+*   5. Ayala  Marquez Iraegui
+  
 ## Konfigurazio Argibideak
 
 Biltegi hau `vcpkg` eta `libcsv` (CSV fitxategiak irakurtzeko) erabiltzeko aurrez konfiguratuta dago.
