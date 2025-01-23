@@ -19,12 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AngularVelocityUnitTest.cpp" />
     <ClCompile Include="src\agularvelocitycalculator.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\point.cpp" />
     <ClCompile Include="src\pointreader.cpp" />
-    <ClCompile Include="tests\PointReaderUnitTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\angularvelocitycalculator.h" />

@@ -1,10 +1,11 @@
+
 #include <csv.h>
 #include <stdio.h>
 #include "point.h"
 #include "pointreader.h"
 #include "angularvelocitycalculator.h"
 
-int main(int argc, char ** argv) {
+int main(int argc, char** argv) {
 	if (argc != 2) {
 		printf("Program to compute maximum angular velocity from a txt file of comma separated values produced by Tracker\n");
 		printf("Usage: %s <filename>\n", argv[0]);
@@ -19,7 +20,7 @@ int main(int argc, char ** argv) {
 		return -1;
 	}
 	float maximumAngularVelocity = computeMaximumAngularVelocity(points, numberOfPoints);
-	
+
 	printf("Maximum angular velocity: %f\n", maximumAngularVelocity);
 
 	freePoints(&points);
